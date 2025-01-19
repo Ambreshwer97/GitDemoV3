@@ -7,7 +7,7 @@ public class Test4 {
 		System.out.println("TL");
 		System.out.println("TE1");
 		System.out.println("TE1");
-		System.out.println("TE2");
+		System.out.println("TE222");
 
 	}
 
